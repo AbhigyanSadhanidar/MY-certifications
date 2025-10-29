@@ -1,43 +1,92 @@
-Certifications
+🧠 Oracle Certifications
+🏅 Oracle Cloud Infrastructure 2025 Certified Foundations Associate
 
-### Oracle Cloud Infrastructure 2025 Certified Foundations Associate  
-**Issuer:** Oracle  
-**Date:** 2025  
-🔗 [View Certificate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=179F2024BA0D67B75845E8BE470424F51247CEF3E487D44311F9177AFB8A69D1)
+Issuer: Oracle
+Date: 2025
+🔗 View Certificate
 
-### Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate  
-**Issuer:** Oracle  
-**Date:** 2025  
-🔗 [View Certificate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=A50876DB9870DD072A55D6C54045735951A1A4928BC9BE04593488A13DECC087)
+🤖 Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate
 
-### AWS Educate – Introduction to Generative AI  
-**Issuer:** Amazon Web Services (AWS Educate)  
-**Date:** 2025  
-🔗 [View Certificate](https://www.credly.com/badges/73313adc-177b-40b5-8608-2ca2855d415c/public_url)
+Issuer: Oracle
+Date: 2025
+🔗 View Certificate
 
-### Amazon Elastic Container Service (AWS ECS)  
-**Issuer:** KodeKloud  
-**Date:** 2025  
-🔗 [View Certificate](https://learn.kodekloud.com/certificate/2a1e67b1-a5f2-4f95-aedf-7ffaa7179eb8)
+☁️ AWS Certifications
+1. AWS Technical Essentials
 
-### Terraform Basics Training Course  
-**Issuer:** KodeKloud  
-**Date:** 2025
-🔗 [View Certificate](https://learn.kodekloud.com/certificate/21d55306-93d9-42f4-87ea-ad9afddcbedf)
+Issuer: Amazon Web Services
+Date: May 2, 2025
+📄 View PDF
 
-[Uploading AWS Technical Essentials.pdf…]()
+2. AWS Partner: Accreditation (Technical)
 
-https://l[Uploading AWS Partner Cloud Economics.pdf…]()
-earn.kodekloud.com/certificate/38d0961f-4118-4a5b-adac-c331c86b5be8
+Issuer: Amazon Web Services
+Date: May 2, 2025
+📄 View PDF
 
-[Uploading AWS DevOps Navigate.pdf…]()
+3. AWS Partner: Cloud Economics
 
-[Uploading AWS DevOps Navigate Technical.pdf…]()
+Issuer: Amazon Web Services
+Date: May 5, 2025
+📄 View PDF
 
-[Uploading AWS Partner Accrediation.pdf…]()
-[Uploading AWS IoT.pdf…]()
+4. AWS Partner: IoT on AWS (Technical)
 
-[Uploading AWS Databases.pdf…]()
-[Uploading AWS Generative AI.pdf…]()
+Issuer: Amazon Web Services
+Date: May 10, 2025
+📄 View PDF
 
-[Uploading AWS Well architecture.pdf…]()
+5. Introduction to Building with AWS Databases
+
+Issuer: Amazon Web Services
+Date: May 16, 2025
+📄 View PDF
+
+6. Introduction to AWS DevOps Navigate
+
+Issuer: Amazon Web Services
+Date: May 18, 2025
+📄 View PDF
+
+7. AWS DevOps Navigate – Technical
+
+Issuer: Amazon Web Services
+Date: May 18, 2025
+📄 View PDF
+
+8. AWS Partner: Generative AI Essentials
+
+Issuer: Amazon Web Services
+Date: May 23, 2025
+📄 View PDF
+
+9. AWS Well-Architected Foundations
+
+Issuer: Amazon Web Services
+Date: May 23, 2025
+📄 View PDF
+
+10. AWS Educate – Introduction to Generative AI
+
+Issuer: Amazon Web Services (AWS Educate)
+Date: 2025
+🔗 View Certificate
+
+🛠️ DevOps & Infrastructure
+🧩 Amazon Elastic Container Service (AWS ECS)
+
+Issuer: KodeKloud
+Date: 2025
+🔗 View Certificate
+
+⚙️ Terraform Basics Training Course
+
+Issuer: KodeKloud
+Date: 2025
+🔗 View Certificate
+
+☁️ AWS Technical Fundamentals
+
+Issuer: KodeKloud
+Date: 2025
+🔗 View Certificate
