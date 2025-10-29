@@ -9,10 +9,6 @@
 **Date:** 2025  
 🔗 [View Certificate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=A50876DB9870DD072A55D6C54045735951A1A4928BC9BE04593488A13DECC087)
 
----
-
-## AWS Certifications
-
 ### 1. AWS Technical Essentials  
 **Issuer:** Amazon Web Services  
 **Date:** May 2, 2025  
@@ -62,7 +58,6 @@
 **Issuer:** Amazon Web Services (AWS Educate)  
 **Date:** 2025  
 🔗 [View Certificate](https://www.credly.com/badges/73313adc-177b-40b5-8608-2ca2855d415c/public_url)
-
 
 ### Amazon Elastic Container Service (AWS ECS)  
 **Issuer:** KodeKloud  
